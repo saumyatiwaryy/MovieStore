@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MovieStore/static/css/main.9ec5674c.css",
+    "main.js": "/MovieStore/static/js/main.a73055f4.js",
+    "static/js/787.93c0ff9f.chunk.js": "/MovieStore/static/js/787.93c0ff9f.chunk.js",
+    "index.html": "/MovieStore/index.html",
+    "static/media/search.svg": "/MovieStore/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.9ec5674c.css.map": "/MovieStore/static/css/main.9ec5674c.css.map",
+    "main.a73055f4.js.map": "/MovieStore/static/js/main.a73055f4.js.map",
+    "787.93c0ff9f.chunk.js.map": "/MovieStore/static/js/787.93c0ff9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ec5674c.css",
+    "static/js/main.a73055f4.js"
+  ]
+}
